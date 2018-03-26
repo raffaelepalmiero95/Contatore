@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
             private Button vAumenta;
             private Button vDiminuisci;
 
-            private int contatore = 0;
+            private int contatore = 100;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
